@@ -1,0 +1,36 @@
+body{
+  font-family: cursive;
+  text-align: center;
+ margin-top: 5%;
+ background-color: rgb(167, 224, 186);
+ color: rgb(201, 108, 108);
+
+}
+
+
+button{
+  margin-top: 3%;
+  width: 120px;
+  background-color: rgb(200, 207, 212);
+  border-radius: 3px ;
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+}
+.img-change{
+  background-color: bisque;
+
+}
+
+input{
+  border-radius: 5px;
+  height: 25px;
+}
+
+button:hover{
+  background-color: darkcyan;
+  transform-style: flat;
+  border-radius: 10px;
+  box-sizing: 10px;
+  font-size: 1.3rem;
+  background-color: cadetblue;
+}
